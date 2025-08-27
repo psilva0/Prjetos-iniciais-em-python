@@ -1,0 +1,1 @@
+Olá, me chamo Pedro e criei esse repositório para mostrar minhas habilidades iniciais e lógicas em Python. Atualmente, no dia 27/07/2025 estou em processo de aprendizado da linguagem e melhorando minhas capacidades lógicas e de interpretação.
