@@ -1,5 +1,0 @@
-print('Para saber qual valor de pagamento do carro, siga as instruções a seguir')
-KM = float(input('Digite a quantidade de KM que seu carro alugado rodou com você. '))
-days = int (input('Digite quandos dias ele esteve com você'))
-tot = (KM * 0.20) + (days * 20)
-print ('Devido ao carro ter rodado {} KM e ficado {} dias com o cliente, o valor a ser pago será de {}'.format(KM, days, tot))
